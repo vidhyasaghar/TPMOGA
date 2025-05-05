@@ -1,0 +1,22 @@
+name,role,type,demographic,units,missing_values,Description
+Attribute1,Feature,Categorical,None,None,no,Status of existing checking account
+Attribute2,Feature,Integer,None,months,no,Duration in month
+Attribute3,Feature,Categorical,None,None,no,Credit history
+Attribute4,Feature,Categorical,None,None,no,Purpose
+Attribute5,Feature,Integer,None,None,no,Credit amount
+Attribute6,Feature,Categorical,None,None,no,Savings account/bonds
+Attribute7,Feature,Categorical,Other,None,no,Present employment since
+Attribute8,Feature,Integer,None,None,no,Installment rate in percentage of disposable income
+Attribute9,Feature,Categorical,Marital Status,None,no,Personal status and sex
+Attribute10,Feature,Categorical,None,None,no,Other debtors / guarantors
+Attribute11,Feature,Integer,None,None,no,Present residence since
+Attribute12,Feature,Categorical,None,None,no,Property
+Attribute13,Feature,Integer,Age,years,no,Age in years
+Attribute14,Feature,Categorical,None,None,no,Other installment plans
+Attribute15,Feature,Categorical,Other,None,no,Housing
+Attribute16,Feature,Integer,None,None,no,Number of existing credits at this bank
+Attribute17,Feature,Categorical,Occupation,None,no,Job
+Attribute18,Feature,Integer,None,None,no,Number of people being liable to provide maintenance for
+Attribute19,Feature,Binary,None,None,no,Telephone
+Attribute20,Feature,Binary,Other,None,no,Foreign worker
+class,Target,Binary,None,None,no,1 = Good, 2 = Bad
